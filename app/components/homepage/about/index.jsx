@@ -23,8 +23,8 @@ function AboutSection() {
           </p>
         </div>
         <div className="flex justify-center order-1 lg:order-2">
-          <Image
-            src={personalData.profile}
+          <img
+            src="https://media.licdn.com/dms/image/v2/D4E03AQFDUmNRKIW3ig/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723217275543?e=1733961600&v=beta&t=Vl46g-LAZJ20Wo10mhcxsPisG-Omd1rNxL714KmEJK8"
             width={280}
             height={280}
             alt="shoaib saleem"
