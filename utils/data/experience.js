@@ -1,15 +1,8 @@
 export const experiences = [
   {
     id: 1,
-    title: 'FullStack Developer',
-    company: "Time Experts",
-    duration: "(Jun 2024 - Present)"
+    title: 'Web and Mobile Application Intern',
+    company: "DopeTech Digital",
+    duration: "(July 2024 - Sep 2024)"
   },
-  {
-    id: 2,
-    title: "Web Devloper Intern",
-    company: "Digiapps Solutions",
-    duration: "(Feb 2024 - May 2024)"
-  },
-
 ]
